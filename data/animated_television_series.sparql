@@ -11,3 +11,4 @@ WHERE {
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }  # Метки на русском и английском
 }
+
